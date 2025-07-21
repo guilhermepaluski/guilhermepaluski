@@ -6,7 +6,7 @@ Studying a Bachelor's Degree in Software Engineering (6th/8th semester) at Cató
 
 Contact me: <a href="mailto:guimpaluski@gmail.com" target="__blank">guimpaluski@gmail.com</a>
 
-## Stacks <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/>
+## Stacks <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25" height="25"/>
 [![My Skills](https://skillicons.dev/icons?i=js,react,html,css,c)](https://skillicons.dev)
 
 ### Social Media
