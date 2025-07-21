@@ -1,4 +1,4 @@
-## ☕️ **Guilherme Mafra Paluski** </br> ```"Nobody ever changed anything by remaining quiet." - Jeff Atwood```
+## ☕️ **Guilherme Mafra Paluski** </br> #### ```"Nobody ever changed anything by remaining quiet." - Jeff Atwood```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-paluski/)
 
