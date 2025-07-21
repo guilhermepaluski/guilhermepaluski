@@ -6,12 +6,8 @@ Studying a Bachelor's Degree in Software Engineering (6th/8th semester) at Cató
 
 Contact me: <a href="mailto:guimpaluski@gmail.com" target="__blank">guimpaluski@gmail.com</a>
 
-## Stacks
+## Stacks <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/>
 [![My Skills](https://skillicons.dev/icons?i=js,react,html,css,c)](https://skillicons.dev)
-
-## Languages
-![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Native Portuguese</br>
-![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") Advanced English
 
 ### Social Media
 <div align="left">
@@ -20,4 +16,10 @@ Contact me: <a href="mailto:guimpaluski@gmail.com" target="__blank">guimpaluski@
   </a>
 </div>
 
-###
+## Languages
+![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Native Portuguese</br>
+![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") Advanced English
+
+<div>
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif"/>
+</div>
