@@ -1,6 +1,6 @@
 ## ☕️ **Guilherme Mafra Paluski**
 
-```"Nobody ever changed anything by remaining quiet. - Jeff Atwood"```
+```"Nobody ever changed anything by remaining quiet." - Jeff Atwood```
 
 Studying a Bachelor's Degree in Software Engineering (6th/8th semester) at Católica University Center of Santa Catarina.
 
@@ -11,6 +11,7 @@ Contact me: <a href="mailto:guimpaluski@gmail.com" target="__blank">guimpaluski@
 
 ###
 
+### Social Media
 <div align="left">
   <a href="https://www.linkedin.com/in/guilherme-paluski/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
