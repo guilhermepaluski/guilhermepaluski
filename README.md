@@ -23,3 +23,9 @@ Contact me: <a href="mailto:guimpaluski@gmail.com" target="__blank">guimpaluski@
 ### Languages
 ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Native Portuguese</br>
 ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") Advanced English
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilhermepaluski/guilhermepaluski/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilhermepaluski/guilhermepaluski/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/guilhermepaluski/guilhermepaluski/output/pacman-contribution-graph.svg">
+</picture>
