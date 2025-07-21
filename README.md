@@ -4,11 +4,10 @@
 
 Studying a Bachelor's Degree in Software Engineering (6th/8th semester) at Católica University Center of Santa Catarina.
 
-Contact me: <a href="mailto:guimpaluski@gmail.com">
-</a>
+Contact me: <a href="mailto:guimpaluski@gmail.com" target="__blank">guimpaluski@gmail.com</a>
 
 ### Stacks
-<a href="[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,c)](https://skillicons.dev)"></a>
+[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,c)](https://skillicons.dev)
 
 ###
 
