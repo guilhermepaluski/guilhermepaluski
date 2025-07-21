@@ -9,7 +9,7 @@ Contact me: <a href="mailto:guimpaluski@gmail.com" target="__blank">guimpaluski@
 ## Stacks  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35" height="35"/>
 [![My Skills](https://skillicons.dev/icons?i=js,react,html,css,c)](https://skillicons.dev)
 
-### Social Media
+## Social Media
 <div align="left">
   <a href="https://www.linkedin.com/in/guilherme-paluski/">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
