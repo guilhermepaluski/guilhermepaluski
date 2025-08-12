@@ -12,7 +12,7 @@ Contact me: <a href="mailto:guimpaluski@gmail.com" target="__blank">guimpaluski@
 
 <h2><b>Stacks</b></h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,js,react,html,css)](https://skillicons.dev)
 
 <br>
 
