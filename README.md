@@ -4,7 +4,7 @@
 
 ```"Nobody ever changed anything by remaining quiet." - Jeff Atwood```
 
-Studying a Bachelor's Degree in Software Engineering (7th/8th semester) at Católica University Center of Santa Catarina.
+Studying a Bachelor's Degree in Software Engineering (8th/8th semester) at Católica University Center of Santa Catarina.
 
 Contact me: <a href="mailto:guimpaluski@gmail.com" target="__blank">guimpaluski@gmail.com</a>
 
